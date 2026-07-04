@@ -57,7 +57,7 @@ Tweet-Website/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/tweet-website.git
+git clone https://github.com/preetdhimanr237/tweet-website.git
 ```
 
 ### 2️⃣ Move into the Project
@@ -152,7 +152,7 @@ _Add screenshot here_
 
 **Preet Dhiman**
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: https://github.com/preetdhimanr237
 
 ---
 
